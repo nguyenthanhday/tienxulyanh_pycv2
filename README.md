@@ -6,14 +6,14 @@
 ## Khởi Chạy Nhanh
 Chạy ứng dụng từ file thực thi:
 ```
-~\tien_Xu_ly\dist\tien_xu_ly.exe
+~\tienxulyanh_pycv2\dist\tien_xu_ly.exe
 ```
 
 ## Hướng Dẫn Phát Triển
 
 ### Bước 1: Điều Hướng Vào Thư Mục Dự Án
 ```bash
-cd tien_xu_ly
+cd tienxulyanh_pycv2
 ```
 
 ### Bước 2: Tạo Môi Trường Ảo
